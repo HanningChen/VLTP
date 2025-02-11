@@ -1,0 +1,9 @@
+**/__pycache__
+runs/
+.vscode/
+LISA-7B/
+LISA-finetune/
+dataset/
+*.pth
+*.bin
+*.model
